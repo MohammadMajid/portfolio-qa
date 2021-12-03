@@ -5,7 +5,7 @@ import "./Footer.css"
 function Footer(props) {
     return (
         <div>
-            <div className='footer'>© 2021 Mohammad Majid All Rights Reserved</div>
+            <div className='footer'>© Mohammad Majid All Rights Reserved</div>
         </div>
     );
 }

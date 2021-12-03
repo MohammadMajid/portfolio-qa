@@ -1,5 +1,5 @@
 .about{
-    padding-bottom: 48px;
+    padding-bottom: 8px;
 }
 .about-top{
     display: flex;
@@ -11,13 +11,20 @@
     border-radius: 20px;
 }
 .about-info{
+    margin : 10px 0px;
     font-size: 24px;
 }
 .info-name{
-    color: rgb(40, 95, 196);
     font-size: 32px;
     font-weight: 800;
 }
+.testing-list{
+    font-size : 18px;
+    margin-top: 30px;
+    text-indent: -2em;
+    line-height: .8;
+}
+
 @media only screen and (max-width: 720px){
     .about-top{
         flex-direction: column;

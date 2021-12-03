@@ -7,9 +7,14 @@ function About(props) {
         <div className='about'>
             <div className='about-top'>
                 <div className='about-info'>
-                    User Experience / User Interface <br/> <span className='info-name'>SDET / Developer</span>
-                    <p>Willing to contribute using my technical expertise to the future growth and success of the organization. 
-                        I work well under pressure on multiple projects to successfully deliver well developed software.</p>
+                     <span className='info-name'>SDET / Automation Tester</span>
+                    <div className='testing-list'>
+                        <ul>Full STLC Support</ul>
+                        <ul>Manual Testing</ul>
+                        <ul>Test Automation</ul>
+                        <ul>Performance Testing</ul>
+                        <ul>Microservice Testing</ul>                    
+                    </div>
                 </div>
                 <div className='about-photo'>
                     <img className='profile-image' src={require('../../../Images/majid.png').default}/>

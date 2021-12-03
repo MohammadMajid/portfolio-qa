@@ -11,7 +11,7 @@ export const SocialData=[
     },
     {
         platform:"Gitlab",
-        link:"https://gitlab.com/mmajid.automation",
+        link:"https://gitlab.com/users/mmajid.automation/projects",
         icon: require("../../../Icons/gitlab.png").default,
     },
     {

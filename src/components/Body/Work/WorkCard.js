@@ -6,12 +6,9 @@ function WorkCard({ item }) {
         <div className='work-card'>
             <img src={item.companylogo} className="work-logo"/>
             <div className='work-info'>
-                <label className='company-name'>{item.company}</label>
+                <label className='company-name'>{item.projectname}</label>
                 <div className='work-dates'>
-                    <label>{item.designation}</label>-<label>{item.company}</label>
-                </div>
-                <div className='work-desc'>
-                    <p>{item.work}</p>
+                    <a href={item.work}>{item.designation}</a>
                 </div>
             </div>
         </div>
