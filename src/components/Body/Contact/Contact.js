@@ -14,10 +14,8 @@ function Contact(props) {
           <SocialContact></SocialContact>
         </div>
         <div className="download">
-          <a download href={require("../../../Icons/bitbucket.png").default}>
-            {/* <img src="https://img.icons8.com/fluency/48/000000/download.png" /> */}
-            <i class="fas fa-file-download"></i>
-            Download Resume
+          <a className="download-link" href="https://mohammadmajid.github.io/portfolio-qa/">
+            See My Resume
           </a>
         </div>
       </div>
