@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/portfolio-qa/static/css/main.cc210896.chunk.css",
-    "main.js": "/portfolio-qa/static/js/main.78ff49dc.chunk.js",
-    "main.js.map": "/portfolio-qa/static/js/main.78ff49dc.chunk.js.map",
+    "main.js": "/portfolio-qa/static/js/main.b2a2861e.chunk.js",
+    "main.js.map": "/portfolio-qa/static/js/main.b2a2861e.chunk.js.map",
     "runtime-main.js": "/portfolio-qa/static/js/runtime-main.e5ecb1a6.js",
     "runtime-main.js.map": "/portfolio-qa/static/js/runtime-main.e5ecb1a6.js.map",
     "static/js/2.e4e873d1.chunk.js": "/portfolio-qa/static/js/2.e4e873d1.chunk.js",
@@ -17,7 +17,7 @@
     "static/media/cooking_master.png": "/portfolio-qa/static/media/cooking_master.ad59a450.png",
     "static/media/cruise.png": "/portfolio-qa/static/media/cruise.24bdcc6d.png",
     "static/media/fashion.png": "/portfolio-qa/static/media/fashion.97259897.png",
-    "static/media/majid.png": "/portfolio-qa/static/media/majid.c2cd5b28.png",
+    "static/media/majid.png": "/portfolio-qa/static/media/majid.f5af1fe1.png",
     "static/media/rest-assured.png": "/portfolio-qa/static/media/rest-assured.1f017b48.png",
     "static/media/selenium-cucumber.png": "/portfolio-qa/static/media/selenium-cucumber.842094ed.png"
   },
@@ -25,6 +25,6 @@
     "static/js/runtime-main.e5ecb1a6.js",
     "static/js/2.e4e873d1.chunk.js",
     "static/css/main.cc210896.chunk.css",
-    "static/js/main.78ff49dc.chunk.js"
+    "static/js/main.b2a2861e.chunk.js"
   ]
 }
