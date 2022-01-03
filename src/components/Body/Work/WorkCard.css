@@ -8,11 +8,13 @@
 }
 .work-logo{
     height: 80px;
+    width: 140px;
 }
 .work-info{
     display: flex;
     align-items: flex-start;
     flex-direction: column;
+    width: 140px;
 }
 .work-dates{
     color: gray;
@@ -29,5 +31,6 @@
 @media only screen and (max-width: 720px){
     .work-card{
         width: 100%;
+        display: flex;
     }
 }
