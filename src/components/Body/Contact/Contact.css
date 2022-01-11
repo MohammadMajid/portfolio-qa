@@ -22,7 +22,10 @@ img{
   font-size: 20px;
   text-align: center;
 }
-
+.download {
+  margin-right: 35px;
+  margin-left: 35px;
+}
 .download :hover{
   background-color: #868e96;
 }
