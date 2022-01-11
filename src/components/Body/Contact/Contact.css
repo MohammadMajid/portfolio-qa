@@ -4,7 +4,7 @@
   flex: 1;
 }
 .section-title {
-  font-size: 32px;
+  font-size: 26px;
   font-weight: 700;
 }
 .contact-container {
@@ -13,6 +13,9 @@
   justify-content: space-between;
   align-items: center;
   margin: 16px 0px;
+}
+img{
+  vertical-align: -0.3em;
 }
 .contact-left {
   max-width: 60%;
