@@ -1,12 +1,12 @@
 export const ProjectData=[
     {
         id:1,
-        title:"Cruise Line",
-        about:"Adventure is worthwhile!",
-        tags:["ReactJs", "NodeJS", "Firebase", "Healthcare"],
-        demo:"https://mohammadmajid.github.io/Cruise-Queen/",
-        github:'https://github.com/MohammadMajid/Cruise-Queen',
-        image: require("../../../Images/cruise.png").default,
+        title:"Ema-John",
+        about:"Selling only the best things online",
+        tags:["ReactJs", "NodeJS", "Firebase", "Ecommerce"],
+        demo:"https://mohammadmajid.github.io/ema-john-simple/",
+        github:'https://github.com/MohammadMajid/ema-john-simple',
+        image: require("../../../Images/ema-john.png").default,
     },
     {
         id:2,
