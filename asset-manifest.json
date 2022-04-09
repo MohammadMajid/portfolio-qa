@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.784b2cb9.chunk.css",
-    "main.js": "/static/js/main.79bb9213.chunk.js",
-    "main.js.map": "/static/js/main.79bb9213.chunk.js.map",
+    "main.js": "/static/js/main.352b191d.chunk.js",
+    "main.js.map": "/static/js/main.352b191d.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.5288bb0d.js",
     "runtime-main.js.map": "/static/js/runtime-main.5288bb0d.js.map",
     "static/js/2.e4e873d1.chunk.js": "/static/js/2.e4e873d1.chunk.js",
@@ -15,7 +15,7 @@
     "static/media/Junit-selenium-docker.jpg": "/static/media/Junit-selenium-docker.6c7e37cf.jpg",
     "static/media/Selenium-testng-java.png": "/static/media/Selenium-testng-java.fbf7bff4.png",
     "static/media/cooking_master.png": "/static/media/cooking_master.ad59a450.png",
-    "static/media/cruise.png": "/static/media/cruise.24bdcc6d.png",
+    "static/media/ema-john.png": "/static/media/ema-john.0bc03d48.png",
     "static/media/fashion.png": "/static/media/fashion.97259897.png",
     "static/media/majid.png": "/static/media/majid.bce07b48.png",
     "static/media/rest-assured.png": "/static/media/rest-assured.1f017b48.png",
@@ -25,6 +25,6 @@
     "static/js/runtime-main.5288bb0d.js",
     "static/js/2.e4e873d1.chunk.js",
     "static/css/main.784b2cb9.chunk.css",
-    "static/js/main.79bb9213.chunk.js"
+    "static/js/main.352b191d.chunk.js"
   ]
 }
